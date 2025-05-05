@@ -24,7 +24,7 @@ Simple validation form. Here it shows the ability to use quick solutions.
 You can clone this project :
 
 ```bash
-    git clone https://github.com/markopersonally/validation_form.git
+    git clone https://github.com/m4rcin7/validation_form.git
     npm install react yup formik
 ```
     
